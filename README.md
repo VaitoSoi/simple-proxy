@@ -15,6 +15,13 @@ A simple proxy that echo the response a website.
     bun install
     ```
 
++ Set up environment:
+
+    ```
+    HOSTNAME=<hostname, default is 127.0.0.1>
+    PORT=<port, default is 7000>
+    ```
+
 + Run it:
 
     ```bash
