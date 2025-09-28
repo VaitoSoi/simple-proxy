@@ -1,4 +1,7 @@
 # spotify-proxy
+A simple proxy that echo the response the a website.
+
+**Notes** The header is sliced. Which mean the header in your request and from server response is not included.
 
 To install dependencies:
 
@@ -12,4 +15,3 @@ To run:
 bun run index.ts
 ```
 
-This project was created using `bun init` in bun v1.2.22. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
