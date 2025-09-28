@@ -1,7 +1,7 @@
 # spotify-proxy
 
 ## I. Introduction
-A simple proxy that echo the response the a website.
+A simple proxy that echo the response a website.
 
 ## II. Run it on your machine
 
